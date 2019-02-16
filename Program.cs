@@ -6,7 +6,7 @@ namespace projEuler
     {
         static void Main(string[] args)
         {
-            var defProblem = 2;
+            var defProblem = 4;
 
             var arg0 = args.Length > 0 ? args[0] : defProblem.ToString();
             int probNumber;
